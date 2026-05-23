@@ -1,6 +1,6 @@
 # 10IADT — Tech Challenge (Fase 1)
 
-Sistema de suporte ao diagnóstico do câncer de mama. Notebook único: `tech_challenge_fase1.ipynb`.
+Modelo para diagnóstico do câncer de mama. Notebook único: `tech_challenge_fase1.ipynb`.
 
 ## Como rodar
 
