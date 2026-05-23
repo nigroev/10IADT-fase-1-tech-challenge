@@ -4,7 +4,7 @@ Sistema de suporte ao diagnóstico do câncer de mama. Notebook único: `tech_ch
 
 ## Como rodar
 
-### Opção 2 — Python local
+### Opção 1 — Python local
 
 ```bash
 python -m venv .venv
