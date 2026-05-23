@@ -1,0 +1,11 @@
+pandas==2.3.3
+numpy==2.3.5
+matplotlib==3.10.7
+seaborn==0.13.2
+scikit-learn==1.7.2
+shap>=0.42.0
+jupyter==1.1.1
+ipykernel==7.1.0
+tensorflow>=2.13.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
