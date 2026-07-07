@@ -22,7 +22,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 ### Arquitetura 
-<img src="arquitetura_projeto.png" alt="Arquitetura do Projeto" width="300">
+<img src="arquitetura_projeto.png" alt="Arquitetura do Projeto" width="800">
 
 O sistema e composto por dois pipelines complementares para classificacao de tumores mamarios:
 
