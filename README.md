@@ -21,3 +21,5 @@ source .venv/Scripts/activate     # Linux/Mac: source .venv/bin/activate
 pip install -r requirements.txt
 jupyter notebook
 ```
+### Arquitetura 
+<img src="arquitetura_projeto.png" alt="Arquitetura do Projeto" width="300">
